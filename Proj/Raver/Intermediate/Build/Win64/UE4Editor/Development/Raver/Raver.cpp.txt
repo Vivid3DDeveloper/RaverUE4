@@ -1,0 +1,2 @@
+G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\Definitions.Raver.h
+G:\Projects\Raver\Proj\Raver\Source\Raver\Raver.h

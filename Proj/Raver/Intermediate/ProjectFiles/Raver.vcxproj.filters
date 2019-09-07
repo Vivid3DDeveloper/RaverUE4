@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Raver.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3010A8F0-8A7D-4955-878E-B68BDF837514}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Raver.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RaverEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3DE7D17A-07A3-4B4A-BD50-88448B8D36AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{DD3B769D-276F-475B-972B-D8C0F65C33C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{C98B2264-EFFD-484E-A0E5-BA6DDF8F6EEC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{A06346F6-510E-46E4-BC46-90762ADC04BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{BD5E3F5C-1611-4EA8-B9FB-6ECDFF3AADF9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{755AAB14-BB91-4C6A-8ABD-60E8EB2ABD0B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{000A46D5-DDE9-4F4E-B810-5DD90DEBA7E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{2736B796-0C13-4F21-AC21-994918BD17B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{32CBFC8F-098D-46DD-AF12-F34BE61A55E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Raver">
+      <UniqueIdentifier>{407C8795-78D8-4265-9803-4A5DE28C3E2F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Raver\Raver.Build.cs">
+      <Filter>Source\Raver</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Raver\Raver.cpp">
+      <Filter>Source\Raver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Raver\Raver.h">
+      <Filter>Source\Raver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Raver\RaverGameModeBase.cpp">
+      <Filter>Source\Raver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Raver\RaverGameModeBase.h">
+      <Filter>Source\Raver</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
