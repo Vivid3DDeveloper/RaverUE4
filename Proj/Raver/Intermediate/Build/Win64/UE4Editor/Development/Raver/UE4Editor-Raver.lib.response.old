@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Raver.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\RaverEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\Raver.cpp.obj"
+"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\RaverGameModeBase.cpp.obj"
+"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\Raver.init.gen.cpp.obj"
+"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\RaverGameModeBase.gen.cpp.obj"
+"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\Default.rc2.res"
+/OUT:"G:\Projects\Raver\Proj\Raver\Intermediate\Build\Win64\UE4Editor\Development\Raver\UE4Editor-Raver.lib"
+/INCLUDE:IMPLEMENT_MODULE_Raver

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Raver.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{67C417DE-B9CB-4579-A374-33278863A14E}</UniqueIdentifier>
+      <UniqueIdentifier>{18843519-5C67-43C9-B1C0-C4F2A7C39F2C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Raver.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{72B1D245-2F9E-4115-8DBA-82524F312A71}</UniqueIdentifier>
+      <UniqueIdentifier>{CAC8AFC9-8996-4604-B769-3B8E7276E864}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,55 +24,55 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{D4A7AA68-C09C-47BF-915B-C22B1BB2DCBE}</UniqueIdentifier>
+      <UniqueIdentifier>{2C1DA708-BC89-4B72-B5F0-39EF5F999551}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{29F296C0-4FEE-4D59-950F-A5BB41430BBD}</UniqueIdentifier>
+      <UniqueIdentifier>{329C72DD-4590-4923-AC0F-59051744C886}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{8C63BAC0-D601-426F-80B3-75299B11DEFE}</UniqueIdentifier>
+      <UniqueIdentifier>{A16EEFDB-C2B7-40DC-B7C9-000DB8F6E32F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{08074208-A8A4-4CEE-88F5-FBF6DE5EB790}</UniqueIdentifier>
+      <UniqueIdentifier>{E285075F-511E-4392-870C-72AE4260B2D7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{4A35C0A8-7740-4089-B55E-8F7FB1425E51}</UniqueIdentifier>
+      <UniqueIdentifier>{FA318C8E-1D33-4EB8-8F63-F45A6F2B4406}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{FCD4CE50-652D-48B3-8955-A83208B026A2}</UniqueIdentifier>
+      <UniqueIdentifier>{54EB05A4-A7D3-4911-8D4D-BDF08D5BE5F2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{484B17AC-67E8-4A65-B1A3-C2314F3E54E5}</UniqueIdentifier>
+      <UniqueIdentifier>{F64702A6-7CA4-4D4F-8685-E16E005CB15C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{3593ADA9-D966-469A-AA5C-1319E1482BDE}</UniqueIdentifier>
+      <UniqueIdentifier>{9538998E-6E70-454D-BA17-467CE2E68113}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\Raver">
-      <UniqueIdentifier>{7E1B1546-E4E0-4530-9A55-2FE26B16D31C}</UniqueIdentifier>
+      <UniqueIdentifier>{A5259389-ED74-4498-A91B-C6B1E78CCAB6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Raver\Raver.Build.cs">
       <Filter>Source\Raver</Filter>
